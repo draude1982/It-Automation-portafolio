@@ -1,2 +1,2 @@
 # IT-Automatización-portafolio
-Practico IT automatización portfolio 
+Práctico IT automatización portfolio 
