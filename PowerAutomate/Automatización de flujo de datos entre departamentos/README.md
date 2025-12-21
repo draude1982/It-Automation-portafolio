@@ -1,4 +1,4 @@
-# Sincronización de datos entre producción y administración
+# Sincronización de datos entre departamentos
 
 ## Problema
 Los departamentos de Producción y Administración trabajan con diferentes archivos de Excel.
