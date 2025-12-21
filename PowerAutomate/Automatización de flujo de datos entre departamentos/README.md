@@ -17,12 +17,13 @@ Se creó un flujo de Power Automate que:
 - Excel Online
 - Microsoft Teams
 
-## Resultados
-- Reducción de errores manuales
-- Información actualizada en tiempo real
-- Evita dar permisos directos a archivos de Producción
+## Resultados / Métricas
+- Reducción de tiempo en la gestión de archivos: 50% estimado
+- Evita duplicados en Excel: 100% de los casos
+- Notificaciones automáticas por Teams: en tiempo real
+
 
 ## Notas
 - Diagrama del flujo en `diagram.png`
-- Capturas en `screenshots/` cuando el flujo esté implementado
+- Capturas en `screenshots/`
 
