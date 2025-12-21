@@ -11,7 +11,7 @@ Se creó un flujo de Power Automate que:
 3. Envía una notificación por Teams al departamento de Administración informando de los cambios.
 
 ## Diagrama del flujo
-![Diagrama de flujo](diagrama_Excel.png)
+![Diagrama de flujo](Diagrama_Excel.png)
 ## Tecnologías
 - Power Automate
 - Excel Online
