@@ -7,8 +7,10 @@ Administración no debía tener permisos sobre los archivos de Producción, pero
 ## Solución
 Se creó un flujo de Power Automate que:
 1. Detecta cambios en el Excel de Producción.
-2. Actualiza automáticamente el Excel de Administración.
-3. Envía una notificación por Teams al departamento de Administración informando de los cambios.
+2. Si el archivo  Excel Administración está abierto, envía una notificación por Teams indicando que debe cerrarse para poder actualizarlo.
+3. Actualiza automáticamente el Excel de Administración cuando está disponible.
+4. Envía una notificación por Teams al departamento de Administración informando de los cambios.
+
 
 ## Diagrama del flujo
 ![Diagrama de flujo](Diagrama_Excel.png)
