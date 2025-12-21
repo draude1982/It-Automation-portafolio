@@ -22,6 +22,11 @@ Se creó un flujo de Power Automate que:
 - Evita duplicados en Excel: 100% de los casos
 - Notificaciones automáticas por Teams: en tiempo real
 
+## Aprendizajes
+- Primer contacto con Power Automate
+- Integración con Excel Online
+- Funcionamiento del envío de notificaciones por Teams
+
 
 ## Notas
 - Diagrama del flujo en `diagram.png`
