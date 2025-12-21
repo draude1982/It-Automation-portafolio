@@ -13,6 +13,6 @@ Esta carpeta contendrá proyectos de automatización IT utilizando Power Automat
 - Próximamente se añadirán flujos documentados.
 
 ## Estructura sugerida
-- `project-1/` → descripción y capturas
+- `Automatización de flujo de datos entre departamentos/` → Sincronización de datos entre producción y administración
 - `project-2/` → descripción y capturas
 
