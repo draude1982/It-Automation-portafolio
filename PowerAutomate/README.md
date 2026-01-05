@@ -1,7 +1,7 @@
 # Power Automate Projects
 
 ## Descripción
-Esta carpeta contendrá proyectos de automatización IT utilizando Power Automate y Power Platform.
+Esta carpeta contendrá proyectos de automatización IT utilizando PowerAutomate y Power Platform.
 
 ## Objetivo
 - Documentar proyectos reales de automatización.
@@ -13,6 +13,6 @@ Esta carpeta contendrá proyectos de automatización IT utilizando Power Automat
 - Próximamente se añadirán flujos documentados.
 
 ## Estructura sugerida
-- `Automatización de flujo de datos entre departamentos/` → Sincronización de datos entre producción y administración
-- `project-2/` → descripción y capturas
+- `Automatización de flujo de datos entre departamentos/` → --   - - Sincronización de datos entre producción y administración
+- Tamaño Papelera reciclaje SharePoint Online
 
