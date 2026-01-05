@@ -6,13 +6,13 @@ El almacenamiento de las papeleras de reciclaje en SharePoint puede acumular gra
 ## Solución
 Se ha implementado un flujo de Power Automate diseñado para centralizar esta métrica. El flujo realiza los siguientes pasos:
 
-    1. Extracción de metadatos: Consulta de forma iterativa el      tamaño de las papeleras de reciclaje mediante la API de SharePoint.
+1. Extracción de metadatos: Consulta de forma iterativa el      tamaño de las papeleras de reciclaje mediante la API de SharePoint.
 
-    2. Procesamiento y Agregación: Sumatorio lógico del contenido recolectado para calcular el peso total por sitio.
+2. Procesamiento y Agregación: Sumatorio lógico del contenido recolectado para calcular el peso total por sitio.
     
-    3. Conversión de Unidades: Transformación de los valores de MB a GB para facilitar la lectura de los informes.
+3. Conversión de Unidades: Transformación de los valores de MB a GB para facilitar la lectura de los informes.
 
-    4. Visualización de Datos: Actualización automática de una lista maestra en el sitio de IT para su visualización y monitorización centralizada.
+4. Visualización de Datos: Actualización automática de una lista maestra en el sitio de IT para su visualización y monitorización centralizada.
 
 ## Diagrama del flujo
 ![Diagrama de flujo](diagrama_papelera.png)
