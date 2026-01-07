@@ -11,7 +11,7 @@ Flujo de trabajo desarrollado en **Power Automate** que realiza una auditoría a
 
 ## Diagrama del flujo
 
-![Diagrama de flujo](tamanoSitio.png)
+![Diagrama de flujo](tamano_Sitio.png)
 ## Tecnologías
 - SharePoint Online
 - PowerAutomate
@@ -37,6 +37,6 @@ Durante el desarrollo de este proyecto se han aplicado los siguientes conocimien
 
 
 ## Notas
-- Diagrama del flujo en `tamanoSitio.png`
+- Diagrama del flujo en `tamano_Sitio.png`
 - Capturas en `screenshots/`
 
