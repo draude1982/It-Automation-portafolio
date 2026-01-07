@@ -23,7 +23,7 @@ Se ha desarrollado un ecosistema de automatización basado en una arquitectura d
         Child Flows (Child_Log): Genera un registro de auditoría (LOG) detallado de cada operación para asegurar el cumplimiento normativo.
 
 ## Diagrama del flujo
-![Diagrama de flujo](copy_onedrive_sharepont.png)
+![Diagrama de flujo](copy_onedrive_sharepoint.png)
 ## Tecnologías
 - OneDrive Business
 - PowerAutomate
